@@ -50,7 +50,7 @@ public class Country_details {
                 System.out.println("Type your choice: ");
                 ch = scanner.nextInt();
                 if (ch == 1) {
-                    System.out.println("Enter name of the Country");
+                    System.out.println("Enter name of the  Country");
                     c_name = scanner.nextLine();
                     for (Country c : hSet) {
                         if (c_name.equals(c.c_name)) {

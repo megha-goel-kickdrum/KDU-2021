@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÄ™g
+U
+java:S1161":Add the "@Override" annotation above this method signature(“ûâ£şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ô¶Œúÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(Œõè
+J
+java:S6212"/Declare this local variable with "var" instead.(®òæÈüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(È€Üúÿÿÿÿ

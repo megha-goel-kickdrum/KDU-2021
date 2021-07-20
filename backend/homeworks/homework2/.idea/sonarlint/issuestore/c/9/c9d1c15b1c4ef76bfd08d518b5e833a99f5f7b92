@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»¤–
+U
+java:S1161":Add the "@Override" annotation above this method signature(è€º¾øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÉÈ‰
+U
+java:S1161":Add the "@Override" annotation above this method signature(è€º¾øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(î¤êã
+J
+java:S6212"/Declare this local variable with "var" instead.(õîşóşÿÿÿÿ

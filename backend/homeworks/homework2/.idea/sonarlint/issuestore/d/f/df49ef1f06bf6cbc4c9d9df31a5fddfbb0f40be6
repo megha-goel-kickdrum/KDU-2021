@@ -1,0 +1,20 @@
+
+g	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°è¦Ðýÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øîÁ«ùÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜÓõÇ
+V	java:S125"<This block of commented-out lines of code should be removed.(Üú¦îúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒâÞêÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óÙôÉÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßúîŸûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®Ï„ßùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–§Ðµ
+E
+java:S6212$"/Declare this local variable with "var" instead.(ÙÿïÆ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(À§èÇ
+K
+java:S2209&"5Change this instance-reference to a static reference.(À§èÇ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ž°¹ó
+K
+java:S2209'"5Change this instance-reference to a static reference.(ž°¹ó
